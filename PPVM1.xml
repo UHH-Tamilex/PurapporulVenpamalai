@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Puṟapporuḷveṇpāmālai</title> <num>1</num>.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p/>
+            </summary>
+          </msContents>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <lg xml:id="PPVM1">
+          <l>muṟṟiya vummait tokaiccoṉ maruṅki</l>
+          <l>ṉeccak kiḷavi yurittu mākum.</l>
+        </lg>
+        <lg xml:lang="en">
+          <l>translation line one</l>
+          <l>translation line two</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+  <text xml:lang="ta" type="edition">
+    <body>
+      <div rend="parallel">
+        <lg xml:id="PPVM1-koḷu1">
+          <l>‘pattum koṭāṉ’</l>
+        </lg>
+        <lg xml:lang="en">
+          <l>translation line one</l>
+        </lg>
+      </div>
+      <div rend="parallel">
+        <lg xml:id="PPVM1-poem1">
+          <l>ellāmkoṭāṉ</l>
+        </lg>
+        <lg xml:lang="en">
+          <l>translation line one</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
